@@ -1,6 +1,6 @@
 {
-  "fileUrl": "https://github.com/mikehardy/react-native-update-apk/releases/download/v3.0.1/rn-update-apk-example-3.0.1.apk",
-  "appVersion": "1.0.3",
-  "description": "<< what changes the app update will bring >>\nhaha",
-  "isMandatory": "true"
+  "fileUrl": "https://github.com/subnewtv/subnew-versions/releases/download/1.0.0/example.apk",
+  "appVersion": "1.0.1",
+  "description": "",
+  "isMandatory": true
 }
