@@ -1,0 +1,16 @@
+Thiết bị đã thử nghiệm:
+- Emulator Android TV (1080p) API 23
+- Emulator Android TV (720p) API 28
+- Emulator Android TV (1080p) API 28
+- MXQ Pro 4K (Fake - Devices Fake 2GB Ram) - Performance mượt.
+- Google Chrome Cast Full HD (1080p)
+
+Các chức năng hiện tại:
+- Nguồn phát: 
+1. OPhim (https://ophim10.cc/)
+2. PhimMoiChill (https://phimmoichillm.net/)
+- Tìm kiếm phim ảnh từ 2 nguồn phát trên.
+- Player cơ bản.
+- Chi tiết phim, chức năng đánh dấu xem sau.
+- Mẹo: để theo dõi 1 bộ phim, hãy tích vào nút "xem sau".
+- Ứng dụng tập trung vào hiệu năng cho các box yếu, vui lòng đề xuất chức năng mới tại group chat Telegram.
