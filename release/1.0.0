@@ -1,9 +1,11 @@
 Thiết bị đã thử nghiệm:
-- Emulator Android TV (1080p) API 23
-- Emulator Android TV (720p) API 28
-- Emulator Android TV (1080p) API 28
-- MXQ Pro 4K (Fake - Devices Fake 2GB Ram) - Performance mượt.
-- Google Chrome Cast Full HD (1080p)
+- Emulator Android TV (720p) Android 6.0
+- Emulator Android TV (1080p) Android 6.0
+- Emulator Android TV (1080p) Android 9.0
+- Emulator Android Google TV (1080p) Android 11.0
+- Emulator Android Google TV (2160p) Android 13.0
+- MXQ Pro (Devices Fake 2GB Ram Slow) Android 7.0
+- Google Chrome Cast Full HD (1080p) Android 12.0
 
 Các chức năng hiện tại:
 - Nguồn phát: 
