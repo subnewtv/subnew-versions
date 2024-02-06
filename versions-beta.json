@@ -1,6 +1,6 @@
 {
-  "fileUrl": "",
-  "appVersion": "1.0.0",
-  "description": "",
+  "fileUrl": "https://github.com/subnewtv/subnew-versions/releases/download/1.0.1/app-release.apk",
+  "appVersion": "1.0.1",
+  "description": "Cập nhật:\n- Nguồn phát: \n1. OPhim (https://ophim10.cc/)\n2. PhimMoiChill (https://phimmoichillm.net/)\n3. PhimNguonC (https://phim.nguonc.com/)\n- Cập nhật Player (dừng tua, cải thiện hiệu suất, đổi máy chủ)\n- Cải thiện hiệu suất, trải nghiệm người dùng\n- Browser nguồn phát chính (thử nghiệm)",
   "isMandatory": false
 }
